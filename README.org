@@ -1,0 +1,224 @@
+* Managing the Human Resource
++ humans really aren't modular systems, you can't reasonably treat them that way.
++ "politics" often cited as reason for project failure, but the term is not well-defined in use.
++ many managers willing to concede that people worries are what they have, but they seldom manage that way.
++ development and production are different, but much management philosophy is derived from a purely production environment
++ some designs are intrinsically defect-prone
+  + they should be rejected, not repaired
+  + they should be expected
++ you can not "kick people into gear" when the gear is creativity, inventiveness, or thoughtfulness
++ uniqueness is a good trait in people, employees included
++ non-quantifiable things like "being a good catalyst" are valuable
++ it is very likely that people on a project are doing too much and not thinking about what they should be doing enough.
+  + having a hard deadline means that thinking time is *more* important, not less.
+  + the average software dev doesn't own a single book on the subject (wtf)
++ productivity should mean achievement per hour of work, not achievement per hour of pay
++ remember that people have one life, they're spending a lot of it at work, and they're probably not getting fullfillment in the same ratio.
++ overtime for salaried workers will cancel any benefits gained from it in the long run
+  + good workers know this already, if you demonstrate that you don't you're just going to lose their respect
+  + workaholics will eventually realize it and be justifiably devastated and will probably burnout
++ turnover is an often unspoken risk of tactics used to try to increase productivity
+  + the cost of a project includes the cost of replacing people
++ people under time pressure don't work better, they work faster, costing quality of product and human experience.
++ work is basically never possible without emotions being involved, self-esteem is a common major factor
++ experienced workers know that when the pressure is on, the thing that will be sacrificed is quality
++ the market might not care, but the people making the product do. the market isn't going to disappear tomorrow. the makers might.
++ the maker's quality standards are always higher than market requirements.
++ quality, far beyond that required by the end user, is a means to higher productivity
++ letting the makers set their own standards for quality will increase productivity to the point of offsetting the cost of improving quality
++ "quality -- if time permits" is equivalent to "no quality"
++ hitachi allows the project team to veto delivery of not-yet-ready products.
++ Parkinson's law probably doesn't actually apply to your people. Parkinson was a humorist. His law is a joke about bureaucracy.
+  + your people are as eager as you to get the job done, and will demonstrate that if they don't have to compromise on quality.
++ what data we do have about time estimates and productivity suggests that having *zero* time pressure results in the highest productivity.
++ the function of a manager is to make it possible for people to work, not to make people work
+* The Office Environment
++ people work better in natural light
++ they feel better in windowed spaces
++ they feel worse in uniform spaces
++ the spaces given to intellect workers is usually noisy, interruptive, not private, and sterile
++ improving the workspace will help immensely with productivity
++ workers often come in early or stay late *just in order to be productive in a space that is hard to be productive in*
++ the authors have collected data from more that 600 people in 92 companies participating in a sort of survey by means of coding competition:
+  + pair of implementors from each organization. they do not collaborate, but do work in their normal work areas in normal hours, using whatever tools they normally use.
+  + these things have little to no correlation with performance:
+    + language choice, excepting assembly language (which was grossly outperformed)
+    + years of experience
+    + number of defects
+    + salary
+  + these things have substantial effect on performance:
+    + what organization you are from
+  + top performer's work spaces were quieter, more private, less interruptible, and larger.
++ no one selling the idea of open-plan seating came with any data
++ IBM *did* collect data, coming to the conclusion that the *minimum* accomodation they needed in order to get optimum performance was:
+  + 100 square feet of dedicated space per worker
+  + 30 square feet of work surface per person
+  + noise protection via either enclosed offices or 6-foot-high partitions
++ your workers aren't complaining about noise because they want status, it's because it makes it harder for them to work
++ flow matters for single-minded, high-momentum work. flow takes 15 minutes or more to turn on and is broken easily.
++ time reported does not typically account for time spent doing work vs time spent being interrupted.
++ one hour of solid work time is not the same as 10 blocks of 6 minutes of solid work time
++ if you can collect data on uninterrupted hours, you can use it to help change your environment for the better.
++ book cites phone calls as a principal cause of interruption, if only they knew what was coming. we live in a world where meetings are rescheduled to be earlier in the day, on the day they are happening, with 2 hours notice, by a red dot with a number and possibly a ding noise
++ it's good for everyone to realize that it's ok to have periods of time where people are unavailable for being interrupted.
++ having a door is good. being able to close the door is better.
++ authors claim that everyone kept quiet about the trend towards noiser tighter spaces hurting productivity because they lacked evidence. it's more likely that everyone kept quiet because your typical worker feels entirely powerless to speak up about things that negatively affect them in their workplace, even when (sometimes especially when) asked about it directly.
++ authors advocate that people start speaking up en masse, which is good advice.
++ if you're being showed a newly designed space, pay attention to whether functionality or appearance is being praised
++ work-conducive space is a necessity. you pay for it with upfront cost creating it or you pay for it indefinitely with productivity loss.
++ addressing the problem of noise in any way other than allowing for isolation comes at the cost of the creativity of your workers.
++ two or three person offices are often fine.
++ your workers will make their spaces into what they need if you let them
++ ensuring there is enough space, quiet, and means for privacy for people to create their own sensible work spaces is ideal
++ master plans for spaces tend to result in sterile uniformity and space that doesn't work for anyone other than the designer.
++ see Christopher Alexander's /The Timeless Way of Building/
++ each team needs identifiable public and semiprivate space
++ each individual needs protected private space
++ groups of people that work together need to have a meaningful role in the design of their own space, ideally aided by a central space-planning organization
++ windows are not optional
++ having outdoor space available is greatly preferable
++ public space on the outside, around edges, space should become more private as you move inwards
++ group space needs tables and adequate seating, writing surfaces, posting areas, ideally space for simple meal preparation
++ successful spaces emphasize humanity and do not deny individuality or team membership
+* The Right People
++ final outcomes are more a function of who does the work than how the work is done
++ managers are unlikely to change their people in meaningful ways.
++ most hiring mistakes result from too much attention to appearances and not enough attention to capabilities.
++ /unprofessional/ often means surprising
++ leadership on the job is rare, but talk about it is common. leadership is often viewed as something that happens from the top down.
++ the type of leadership people talk about with respect often happens outside of official heirarchies, and is about service
++ actual innovation and meaningful leadership are correlated
++ authors state that it would be ludicrous to hire a juggler without seeing them perform, but I'm willing to bet that happens pretty often.
++ authors note that portfolios are uncommon but valuable. github has, for many, become the MVP (minimum viable portfolio)
++ authors note that aptitude tests measure the wrong thing. fizzbuzz or something a bit above it are still useful in this field.
++ authors suggest asking candidates to give a 10-15m presentation on a subject of the candidates choosing, bounded to things at least mildly related to the work at hand.
++ diversity is good
++ bringing in new people takes time, and during that time teams shouldn't be changing much
++ authors seem to assert that younger generations can't get into flow state because of constant divided attention and that flowstate is necessary. i feel this is incorrect, and that you should generally believe what people describe their ideal working environments as, and enforce their ability to modify them when necessary or desired.
++ you, or someone in your organization, should be able to answer what annual employee turnover has been the last few years and the average cost of replacing a person.
++ in companies with high turnover, people tend towards very short-term viewpoints that can be destructive
++ companies with high turnover can move to promoting people quickly as a means to keep them around, leading to ridiculously tall and narrow heirarchies of management
++ turnover gives rise to turnover
++ giant large-distance company moves are disastrous
++ companies with very low turnover tend to be ones that are consciously striving to be the best in ways that aren't just talk
+  + there is a widespread sense that you are expected to stay
+  + the company invests heavily in your personal growth
+  + there is widespread retraining
++ most salaries are treated as expense, rather than as capital investment
++ for any type of non-trivial work, ramp-up time is significant even for experienced workers. when a company does work that requires a firm grasp of what it's built on, experience becomes more important for hires and ramp-up time *increases*
++ downsizing looks good on the books, but it means that upper management failed.
++ investment in people matters most
+* Growing Productive Teams
++ good teams are more than the sum of their parts, and have much higher probability of success in their undertakings
++ good teams have bought into a common goal
++ believing that workers will (or should) automatically accept their employer's goals is naive
++ that DBA probably identifies more strongly as a father
++ people don't stop making value judgements when they arrive at work
++ most organizational goals are awfully arbitrary
++ typically there is a lot on assurance that managers have strong personal incentives to accept corporate goals, and none for workers
++ big profit increase for the company often doesn't translate to anything for the people at the bottom doing the work
++ refocusing a teams attention on the companies goals can trivialize their own sense of success. not noted by the authors, but there are solutions other than intentionally hiding the fact that the teams goals are just to make money for the company.
++ the purpose of a team is not accomplishing goals, but aligning towards goals
++ low turnover during projects and well-define tasks is a sign of a good team
++ sense of group identity is a sign of a good team
++ sense of eliteness is a sign of a good team
++ a feeling of joint ownership is a sing of a good team (this is actually best when paired with actual ownership)
++ good teams are obviously enjoying the work they're doing
++ good teams can make managers insecure due to them often not being part of the team, and team loyalty often being stronger than company loyalty
++ very good teams can maintain their identity over the course of time even if they don't have any original members anymore.
++ you can't force the creation of good teams, you can improve the odds of them forming
++ /growing/ teams is a more appropriate framing that /building/ teams
++ defensive management makes it harder to grow teams
+  + let people make mistakes
+  + trust your people more
+  + only being able to operate autonomously as long as you operate correctly is not being able to operate autonomously at all
+  + it is more important to be allowed to be wrong than to be allowed to be right
+  + prescriptive methodologies are defensive management
++ bureaucracy makes it harder to grow teams
+  + telling your people that the goal matters isn't enough if they also need to spend a lot of time pushing paper
++ physical separation makes it harder to grow teams
+  + lack of casual interaction
+  + this probably applies in a more narrow focus now -- we have plenty of examples of good teams with large physical distributions, however they do tend to have online spaces that supplant physical ones for casual interactions
++ fragmentation of time makes it harder to grow teams
+  + being a member of one working group is much harder than being a member of one
+  + people are not often members of more than one good team, if they are a member of any
++ sacrificing quality makes it harder to grow teams
++ phony deadlines make it harder to grow teams
++ trying to control formation of cliques makes it harder to grow teams (they are the same thing)
++ motivational-poster-a-likes effectively demean the work or the people who do it
++ overtime can kill a healthy team
++ internal competition can make it harder to grow teams
++ peer-coaching is common in healthy teams, often without conscious intent
++ common managerial actions that tend to kill teams:
+  + annual salary or merit review
+  + management by objectives
+  + praise of individuals for extraordinary accomplishment
+  + awards, prizes, bonuses tied to performance
+  + almost any form of performance measurement
++ it is fine to have people who are not part of a team
++ trusting people with autonomy makes it easier for teams to form
++ allowing people to not be visibly supervised makes it easier for teams to form, this includes sending people off to nice things that aren't in the office.
++ sensible insubordunation is sensible. remember that the PDP11 was a skunkworks project.
++ allow people at all levels some voice in team selection
++ natural authority, as opposed to authority from position, makes it easier for good teams to form
++ good managers are working on building and maintaining healthy chemistry, in a holistic sense
++ great managers will choose to effect some change in the people they manage that makes them much more productive and goal-directed but less controllable. this is an admission that people can't be controlled in any meaningful way to begin with.
++ teams need to be unique in some sense, but not in all senses
++ a good team that forms for a particular project should not be broken up when the project is completed if at all possible.
++ managers are *not* typically members of the teams they manage. the best teams have internal leadership that changes based on the strengths of members and the needs of the moment. they are networks, not heirarchies.
++ diversity is good for teams
+* Fertile Soil
++ making a system deterministic removes the ability for it to heal itself spontaneously in ad-hoc situations
++ our organizations are only as good as the people in them
++ capital M Methodologies turn human systems into deterministic ones.
++ if a direction doesn't make sense to the people working on a project, it doesn't make sense at all
++ small m methodologies, plans specific to the work at hand and the skills necessary to effect the plan, are fine and often necessary
++ capital M Methodologies lead to malicious compliance
++ most percieved benefits from Methodologies are actually about shared methods. this is better achieved through training, tools, and peer review.
++ de facto methodologies trump de jure Methodologies
++ people perform better when they're trying something new
++ project risk is a likely indicator of value, all the safe projects were done long ago
++ managing your own risk is important
++ it's not okay to avoid managing risk whose consequences are dire
++ it's common for "this is so important it needs done by X" to mean "this is so unimportant that we won't fund it past X"
++ effective meetings are often low on the use of technology
++ working meetings, one that are specifically called to get something done, are useful
++ a meeting ended by the clock is more of a ceremony, which are sometimes necessary but often not
++ the authors like open-space "networking" style meetings as a replacement for ceremonies.
++ try to eliminate as many ceremonies as possible, and to limit the attendance at working meetings while making sure they have an end point
++ the worst thing management can do is waste people's time, which is easier said than avoided.
++ status meetings can easily be more about power status than project status
++ overstaffing early in a project leads to heaps of wasted time since the bulk of the work early is figuring it out
++ people know when their time is being wasted. if it's being wasted enough they'll let you know, this is bad.
++ people might miss if their time is being wasted due to fragmentation, and often self-blame if they notice at all
++ a lot of the communication issues ascribed to email here have moved mediums to slack-alikes and other types of software, some are alleviated somewhat by that move
++ if you're included in every message there's probably a problem
++ better to be allowed to pull information from people than have information pushed onto by people
++ make efforts to ensure that silence is not assumed to be consent
++ check your incoming messages, as well as the ones you're about to send, with care paid attention to whether or not the recipient needs to know what is being sent
++ every time you send a message to get someone to coordinate, consider what you could do to make them self-coordinate
++ people hate change. it doesn't matter. they really truly hate change. everything works. everything fails. frame things that need changed in positive lights. all improvement involves change.
++ when change does happen there is a necessary period of new learning and practicing
++ change requires a justifying catalyst
++ things will be worse off immediately after a change. without recognizing this, it can be misidentified as the result of the change itself.
++ people need to feel safe, it needs to be ok for failure to happen for change to succeed
++ gaining experience is not the same thing as learning, this is true for organizations as well as individuals
++ when organizations learn, they either instill new skills and approaches in their people or redesign themselves to operate in a different manner
++ organizational learning is limited by the ability to avoid turnover
++ for most organizations that learn, the learning happens at the level of middle-management
++ in order for learning to happen, middle managers must communicate with each other and work together
++ great managers are good at making communities
++ good management practices Aristotelian Politics
++ organizations that succeed in building satisfying communities tend to keep their people
++ there is no formula for successfully building workplace communities
+* It's Supposed to Be Fun to Work Here
++ disorder can be fun
++ things like pilot projects and conferences can amount to small amounts of disorder
++ standardization leads to consistency in documentation, not consistency in functionality so you're not really risking much if you're worried about standards.
++ brainstorming on a relevant problem can be disorderly as well as enjoyable and rewarding
++ give people a chance to work together outside of the normal environment they would be working together in
++ having people whose job is essentially to discover new things can be a good thing
++ recognize people who work better when not given top-down goals and let them do their thing
++ don't try to change everything at once
++ workers do have collective power even if they don't often recognize it
++ people don't need much of a catalyst -- if you notice something, you're almost certainly not the first
