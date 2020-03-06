@@ -1,0 +1,70 @@
+* Context Is Important for Interpretation™
+The authors seem to primarily have experience at organizations much larger than many of those who have this book in
+their reading list will have ever stepped foot in. While quite a lot of the advice here is generally very solid, there
+are absolutely matters of scale involved in much of it.
+
+There's a large amount of generational disconnect from people who grew up on the internet here. While the book was
+revisited in 2013, keep in mind that this was originally written in 1987. I was 2. This was written before the gig
+economy, before startups, *before the dotcom burst*. The first edition of this was written before [[https://en.wikipedia.org/wiki/Eternal_September][September Started]].
+
+Meditate on these excerpts from the preface:
+
+#+BEGIN_QUOTE
+One of us—neither one can remember which it was—reflected back over what we’d been discussing and offered this summing
+up: “Maybe . . . the major problems of systems work are not so much technological as sociological.” It took a while for
+that to sink in because it was so contrary to what had been our thinking before. We, along with nearly everyone else
+involved in the high-tech endeavors, were convinced that technology was all, that whatever your problems were, there had
+to be a better technology solution to them. But if what you were up against was inherently sociological, better
+technology seemed unlikely to be much help.
+
+...
+
+it soon became clear to both of us that the social complexities on most of the projects we’d known simply dwarfed any
+real technological challenges that the projects had had to deal with. And then, inevitably, we needed to face up to
+something far more upsetting: While we had probably known in our bones for a long time that sociology mattered more than
+technology, neither of us had ever managed that way.
+#+END_QUOTE
+
+There's something very telling in how this was a big realization in 1987, how obvious it is, and most notably how often
+this lesson has been repeated in our industry in particular, with similar "we suddenly realized it was about people the
+whole time" sorts of stories. It's also worth noting how easily the /sentiment/ can sell /glaringly obvious attempts to
+solve sociological problems with tech/. This plagues us, in my garbage opinion.
+
+The authors, at certain points, seem to refer back to some sort of "companies were largely concerned with being good for
+people" business/management model that simply has never been present as a norm in my lifetime.
+
+They come suspiciously close, in multiple places, to recognizing that a lot of the problems seemingly faced by the types
+of organizations they had experience with might actually be better solved by *actual worker ownership*, as they note
+quite rightly that it's a big problem when the people making the things know damn well they don't /actually/ matter to
+the company, however they fall short of suggesting structural change in favor of what sometimes seem like very shallow
+"human bonding activities". That may be my personal biases at work more than not -- given the time scale, and the
+popularity of the text, it's possible that a good chunk of what I have mostly seen as "exploitation of naivety by
+putting a thin paint of appearing to understand creative types on your cafeteria" is a corruption of some of what this
+book touches on.
+
+On the other hand they seem to buy into the idea of maximizing for the company as the right thing to do, in almost a
+moral sense, even if in most of these cases it's through maximizing for the workers. It's approached in a way that is
+strangely very overtly manipulative of people's motivations without being very overtly manipulative of people. I suppose
+that all things considered, that fits very well into the definition of a manager that's going to do well by the books
+and also be respected by their reports; I have a more cynical take towards companies and their motivations and
+structures than I might had I grown up in the late 50s-60s.
+
+There are a few parts where they make what I would consider to be false assumptions about people based on false
+assumptions about human nature and false assumptions about the nature of tech work. One specific case, the assumption
+that flow state is necessary, is understandable in context. It feels a bit like they didn't see the world of "well
+basically everyone is writing CRUD apps in various incompatible ways" coming, but how could they? It doesn't make them
+wrong about people needing to be able to shut the door, and it doesn't change the core nature of the work of the
+"intellect worker", but for many if not most software jobs now there are fewer cases where that flow state is really a
+necessity. I'd probably go so far as to argue that a different class of problems has arisen alongside our industry for
+which flow state is actually detrimental, where context-switching is closer to a core skill.
+
+None of this is meant to suggest that the authors are full of it. They're not. It's a good book, and largely stands up
+to 40 years of time pretty damn well. The parts of a work like this that start to stick out over time are almost always
+cultural things or things born out of situations that the authors couldn't reasonably predict to begin with. Still, if
+we'd like to stop repeating the cycle of discovering that you can't Methodology a sociological problem away, we should
+make sure we're at least paying attention to how the context something was written in may have affected it. It's easier
+to notice you're being sold a tech solution to a sociological issue if you can recognize when the solution looks awfully
+familiar to something that made a lot of sense in a situation you're not in.
+
+
+Sociological problems are, after all, almost entirely made of context.
